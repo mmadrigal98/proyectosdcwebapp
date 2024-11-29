@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch --env-file=.env /site/wwwroot/src/index.js",
-    "start": "node index.js"
+    "start": "node /site/wwwroot/src/index.js"
   },
   "keywords": [],
   "author": "",
