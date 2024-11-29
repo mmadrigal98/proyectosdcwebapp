@@ -1,4 +1,4 @@
-POST http://localhost:6969/api/auth/userLogin
+POST http://psdcmyf.azurewebsites.net/api/auth/userLogin
 Content-Type: application/json
 
 {
