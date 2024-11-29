@@ -5,7 +5,7 @@
   "main": "/site/wwwroot/src/index.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch --env-file=.env /site/wwwroot/src/index.js",
+    "dev": "node --watch /site/wwwroot/src/index.js",
     "start": "node /site/wwwroot/src/index.js"
   },
   "keywords": [],
