@@ -2,10 +2,10 @@
   "name": "api-sdc",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "/home/site/wwwroot/src/index.js",
   "type": "module",
   "scripts": {
-    "dev": "node --watch --env-file=.env src/index.js"
+    "dev": "node --watch --env-file=.env /home/site/wwwroot/src/index.js"
   },
   "keywords": [],
   "author": "",
